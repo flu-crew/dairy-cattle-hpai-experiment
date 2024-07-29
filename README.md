@@ -1,4 +1,5 @@
 # Experimental reproduction of viral replication and disease in dairy calves and lactating cows inoculated with highly pathogenic avian influenza H5N1 clade 2.3.4.4b 
+[![DOI](https://zenodo.org/badge/835369959.svg)](https://zenodo.org/doi/10.5281/zenodo.13126628)
 
 This repository will host scripts and describe how to reproduce the computational analysis in:
 
