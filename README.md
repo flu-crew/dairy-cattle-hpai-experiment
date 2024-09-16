@@ -11,6 +11,8 @@ Links and data are being uploaded as provenance is determined. We cannot publicl
 
 **All other data has been deposited at NCBI Genbank with a listing of accessions provided as soon as they have been generated.**
 
+The raw sequence data will be hosted on AgDataCommons with a DOI pending.
+
 If you have specific queries, please submit an issue in the git repo, and we will address it as soon as we are able. Thank you.
 
 
