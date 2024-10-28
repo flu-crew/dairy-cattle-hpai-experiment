@@ -3,7 +3,7 @@
 
 This repository will host scripts and describe how to reproduce the computational analysis in:
 
-*Baker, et al. **Dairy cows inoculated with highly pathogenic avian influenza virus H5N1**. Nature (2024) [DOI](https://doi.org/10.1038/s41586-024-08166-6)*
+*Baker, et al. **Dairy cows inoculated with highly pathogenic avian influenza virus H5N1**. Nature (2024) [DOI and link to early release article](https://doi.org/10.1038/s41586-024-08166-6)*
 
 If you have queries on material in this repo, please create an issue and it will be addressed.
 
