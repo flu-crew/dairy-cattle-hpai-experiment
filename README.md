@@ -3,18 +3,9 @@
 
 This repository will host scripts and describe how to reproduce the computational analysis in:
 
-*Baker, et al. **Experimental reproduction of viral replication and disease in dairy calves and lactating cows inoculated with highly pathogenic avian influenza H5N1 clade 2.3.4.4b**. https://www.biorxiv.org/content/10.1101/2024.07.12.603337v1*
+*Baker, et al. **Dairy cows inoculated with highly pathogenic avian influenza virus H5N1**. Nature (2024) [DOI](https://doi.org/10.1038/s41586-024-08166-6)*
 
-This project is in active development. The paper is a preprint and has not been peer reviewed. 
-
-Links and data are being uploaded as provenance is determined. We cannot publicly upload the genetic sequences from GISAID, but alignment files and xml files include accessions that may be downloaded.
-
-**All other data has been deposited at NCBI Genbank with a listing of accessions provided as soon as they have been generated.**
-
-The raw sequence data will be hosted on AgDataCommons with a DOI pending.
-
-If you have specific queries, please submit an issue in the git repo, and we will address it as soon as we are able. Thank you.
-
+If you have queries on material in this repo, please create an issue and it will be addressed.
 
 ### Project structure ###
 See the respective README.txt files within the folders for details/instructions.
