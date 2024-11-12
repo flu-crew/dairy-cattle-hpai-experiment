@@ -14,7 +14,7 @@ Baker AL, Arruda B, Palmer MV, Boggiatto P, Davila KS, Buckley A, Zanella GC, Sn
 
 ### Project structure ###
 See the respective README.txt files within the folders for details/instructions.
-- [ML_Trees](ML_Trees/): Input and output from the genetic sequence analysis: includes PDF tree figures.
+- [ML_Trees](ML_Trees/): Input and output from the genetic sequence analysis: includes PDF tree figures and NCBI Genbank accessions of data from prior study that was used again in this work.
 - [SNV_results](SNV_results/): Variant calling analysis. All tables and data generated from within-host variant calling analysis.
 - [clinical-challenge-study-data.xlsx](): all supplemental tables and data associated with manuscript.
 - [WGS-representativity](WGS-representativity/): Analysis to identify how representative the challenge strain was relative to field collected samples.
